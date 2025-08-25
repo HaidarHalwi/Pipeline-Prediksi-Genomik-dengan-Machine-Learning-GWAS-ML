@@ -148,6 +148,10 @@ flowchart TD
 - Berbasis pada pipeline dan protokol GWAS-with-ML (Vaishnavi Jangale et al, PennCATH).
 - Kode modular ini bebas diadaptasi untuk riset dan pendidikan.
 
+# Folder Data dan Dataset
+Folder data : https://drive.google.com/drive/folders/18D6cUbTJ0BB9J055DRNOar9LBgpZZHMC?usp=sharing)
+Folder dataset / penncath : https://drive.google.com/file/d/15Kgcxxm1CntoxH6Gq7Ev_KBj24izKg3p
+
 **Q & A**  
 Untuk pertanyaan lebih lanjut atau contoh data, silakan hubungi maintainer repo.
 
